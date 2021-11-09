@@ -1,2 +1,2 @@
 # MinimalDebianInstall
-Scripts that remove unnecessary software from Debian 10.4
+Scripts that remove unnecessary software from Debian 11
